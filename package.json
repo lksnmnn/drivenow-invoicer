@@ -1,0 +1,8 @@
+{
+  "name": "drivenow-invoicer",
+  "version": "0.1.0",
+  "description": "Download invoices for a DriveNow account",
+  "main": "index.js",
+  "author": "lksnmnn",
+  "license": "MIT"
+}
