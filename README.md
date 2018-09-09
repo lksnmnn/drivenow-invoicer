@@ -13,4 +13,4 @@ If everything goes smooth, you'll have 12 json files representing the monthly re
 ## Disclaimer
 Use at your own risk. I hacked this together for personal use, and it's very very rough.
 
-I borrowed the idea, some of the code and this Readme from @gabro's Car2Go invoicer script: https://github.com/gabro/car2go-invoicer
+I borrowed the idea, some of the code and this Readme from @gabro 's Car2Go invoicer script: https://github.com/gabro/car2go-invoicer
